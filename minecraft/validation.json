@@ -1,0 +1,59 @@
+{
+  "checked": "2026-11-10",
+  "python": "3.13.14",
+  "dependencies": {
+    "numpy": "2.5.4",
+    "trimesh": "4.12.2",
+    "scipy": "1.18.1",
+    "Pillow": "12.3.0"
+  },
+  "tests": {
+    "command": "python -m unittest discover -s minecraft/tests -v",
+    "passed": 5,
+    "failed": 0
+  },
+  "demo": {
+    "size_xyz": [
+      28,
+      36,
+      25
+    ],
+    "blocks": 7122,
+    "mode": "solid",
+    "front_preview_viewed": true,
+    "minecraft_launched": false,
+    "game_import_tested": false
+  },
+  "official_mods": {
+    "sha512_verified_downloads": 4,
+    "jar_metadata_inspected": 4,
+    "fabric_api_nested_dependencies_confirmed": true
+  },
+  "files": {
+    "examples/demo-sprout.glb": {
+      "bytes": 13340,
+      "sha256": "2e041be12b92a274d99b04a7d5345bfa7e4e113f7f60f63abc92ecc6586c1e55"
+    },
+    "examples/demo-output/blocks.json": {
+      "bytes": 86775,
+      "sha256": "a398434573343ec0ed8b632a7f8a6852fb0ab15882e3c92db23835bedbccca82"
+    },
+    "examples/demo-output/build-order.csv": {
+      "bytes": 262384,
+      "sha256": "4316b1b173cca88dd42dbbca02b9dabf29df09a2980ff34d9097840f92caf1a1"
+    },
+    "examples/demo-output/build.litematic": {
+      "bytes": 2097,
+      "sha256": "0ec000398622149894d7b564fb623b6103b8849b3aca1dfacc6d147881043872"
+    },
+    "examples/demo-output/front.png": {
+      "bytes": 2448,
+      "sha256": "977fec1dd7461dc71b1d5e9cd46ad340350da3b2e0db054d925c17b1dc84027d"
+    },
+    "examples/demo-output/materials.csv": {
+      "bytes": 117,
+      "sha256": "9942555ec7ae37132853b432d7df8f0be9f4bff4a351d1c072957dbf99711951"
+    }
+  },
+  "file_hash_scope": "Repository files after Git LF normalization; regenerated CSV line endings may differ by platform."
+}

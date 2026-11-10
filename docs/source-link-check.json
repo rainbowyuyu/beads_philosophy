@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-10",
+  "sources": [
+    {
+      "id": "openstax_blackbody",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/6-1-blackbody-radiation",
+      "status": 200,
+      "title": "6.1 Blackbody Radiation - University Physics Volume 3 | OpenStax",
+      "visible_text_characters": 25828,
+      "markers": [
+        "Planck",
+        "blackbody",
+        "Blackbody",
+        "Quantum",
+        "6.626"
+      ],
+      "check_scope": "HTTP page and relevant topic markers, not a new full-text scientific review"
+    },
+    {
+      "id": "planck_nobel",
+      "url": "https://www.nobelprize.org/prizes/physics/1918/planck/facts/",
+      "status": 200,
+      "title": "Max Planck &#8211; Facts - NobelPrize.org",
+      "visible_text_characters": 4066,
+      "markers": [
+        "Planck"
+      ],
+      "check_scope": "HTTP page and relevant topic markers, not a new full-text scientific review"
+    },
+    {
+      "id": "planck_lecture",
+      "url": "https://www.nobelprize.org/prizes/physics/1918/planck/lecture/",
+      "status": 200,
+      "title": "Max Planck &#8211; Nobel Lecture - NobelPrize.org",
+      "visible_text_characters": 34435,
+      "markers": [
+        "Planck",
+        "Quantum"
+      ],
+      "check_scope": "HTTP page and relevant topic markers, not a new full-text scientific review"
+    },
+    {
+      "id": "openstax_oscillator",
+      "url": "https://openstax.org/books/university-physics-volume-3/pages/7-5-the-quantum-harmonic-oscillator",
+      "status": 200,
+      "title": "7.5 The Quantum Harmonic Oscillator - University Physics Volume 3 | OpenStax",
+      "visible_text_characters": 18122,
+      "markers": [
+        "Planck",
+        "blackbody",
+        "Quantum",
+        "harmonic"
+      ],
+      "check_scope": "HTTP page and relevant topic markers, not a new full-text scientific review"
+    },
+    {
+      "id": "mit_quantum",
+      "url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/",
+      "status": 200,
+      "title": "Quantum Physics I | Physics | MIT OpenCourseWare",
+      "visible_text_characters": 3656,
+      "markers": [
+        "Quantum"
+      ],
+      "check_scope": "HTTP page and relevant topic markers, not a new full-text scientific review"
+    },
+    {
+      "id": "nist_h",
+      "url": "https://physics.nist.gov/cgi-bin/cuu/Value?h",
+      "status": 200,
+      "title": "CODATA Value:    Planck constant",
+      "visible_text_characters": 536,
+      "markers": [
+        "Planck",
+        "6.626"
+      ],
+      "check_scope": "HTTP page and relevant topic markers, not a new full-text scientific review"
+    },
+    {
+      "id": "nist_length",
+      "url": "https://physics.nist.gov/cgi-bin/cuu/Value?plkl",
+      "status": 200,
+      "title": "CODATA Value:    Planck length",
+      "visible_text_characters": 561,
+      "markers": [
+        "Planck",
+        "1.616"
+      ],
+      "check_scope": "HTTP page and relevant topic markers, not a new full-text scientific review"
+    },
+    {
+      "id": "nist_time",
+      "url": "https://physics.nist.gov/cgi-bin/cuu/Value?plkt",
+      "status": 200,
+      "title": "CODATA Value:    Planck time",
+      "visible_text_characters": 557,
+      "markers": [
+        "Planck",
+        "5.391"
+      ],
+      "check_scope": "HTTP page and relevant topic markers, not a new full-text scientific review"
+    },
+    {
+      "id": "sep_quantum_gravity",
+      "url": "https://plato.stanford.edu/entries/quantum-gravity/",
+      "status": 200,
+      "title": "Quantum Gravity (Stanford Encyclopedia of Philosophy)",
+      "visible_text_characters": 119578,
+      "markers": [
+        "Planck",
+        "Quantum"
+      ],
+      "check_scope": "HTTP page and relevant topic markers, not a new full-text scientific review"
+    }
+  ]
+}

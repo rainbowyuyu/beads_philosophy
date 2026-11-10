@@ -1,0 +1,73 @@
+{
+  "checked": "2026-11-10",
+  "note": "Metadata inspected inside SHA512-verified official downloads. No game launch performed.",
+  "mods": [
+    {
+      "filename": "fabric-api-0.116.18+1.21.1.jar",
+      "id": "fabric-api",
+      "version": "0.116.18+1.21.1",
+      "depends": {
+        "fabricloader": ">=0.15.11",
+        "java": ">=21",
+        "minecraft": ">=1.21- <1.21.2-"
+      },
+      "breaks": {},
+      "recommends": {}
+    },
+    {
+      "filename": "litematica-fabric-1.21-0.19.61.jar",
+      "id": "litematica",
+      "version": "0.19.61",
+      "depends": {
+        "minecraft": ">=1.21 <=1.21.1",
+        "malilib": ">=0.21.10-"
+      },
+      "breaks": {},
+      "recommends": {}
+    },
+    {
+      "filename": "malilib-fabric-1.21-0.21.10.jar",
+      "id": "malilib",
+      "version": "0.21.10",
+      "depends": {
+        "minecraft": ">=1.21 <=1.21.1",
+        "fabric-networking-api-v1": ">=4.2.0",
+        "fabric-resource-loader-v0": "*"
+      },
+      "breaks": {
+        "itemscroller": "<=0.24.56",
+        "litematica": "<=0.19.55",
+        "minihud": "<=0.32.56",
+        "tweakeroo": "<=0.21.56"
+      },
+      "recommends": {}
+    },
+    {
+      "filename": "replaymod-1.21-2.6.28.jar",
+      "id": "replaymod",
+      "version": "1.21-2.6.28",
+      "depends": {
+        "fabricloader": ">=0.7.0",
+        "fabric-networking-api-v1": "*",
+        "fabric-key-binding-api-v1": "*",
+        "fabric-resource-loader-v0": "*"
+      },
+      "breaks": {},
+      "recommends": {}
+    }
+  ],
+  "fabric_api_nested_required_modules": [
+    {
+      "id": "fabric-key-binding-api-v1",
+      "version": "1.0.47+0af3f5a719"
+    },
+    {
+      "id": "fabric-networking-api-v1",
+      "version": "4.3.1+d30f6a7919"
+    },
+    {
+      "id": "fabric-resource-loader-v0",
+      "version": "1.3.1+5b5275af19"
+    }
+  ]
+}

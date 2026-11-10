@@ -1,0 +1,22 @@
+{
+  "name": "Concrete approximate solid-color swatches",
+  "notes": "Hand-specified representative RGB colors, not copied Minecraft textures or measured material colors. Lighting/resource packs change appearance.",
+  "blocks": [
+    {"block":"minecraft:white_concrete","rgb":[207,213,214]},
+    {"block":"minecraft:orange_concrete","rgb":[224,97,0]},
+    {"block":"minecraft:magenta_concrete","rgb":[169,48,159]},
+    {"block":"minecraft:light_blue_concrete","rgb":[36,137,199]},
+    {"block":"minecraft:yellow_concrete","rgb":[241,175,21]},
+    {"block":"minecraft:lime_concrete","rgb":[94,168,24]},
+    {"block":"minecraft:pink_concrete","rgb":[214,101,143]},
+    {"block":"minecraft:gray_concrete","rgb":[54,57,61]},
+    {"block":"minecraft:light_gray_concrete","rgb":[125,125,115]},
+    {"block":"minecraft:cyan_concrete","rgb":[21,119,136]},
+    {"block":"minecraft:purple_concrete","rgb":[100,31,156]},
+    {"block":"minecraft:blue_concrete","rgb":[44,46,143]},
+    {"block":"minecraft:brown_concrete","rgb":[96,59,31]},
+    {"block":"minecraft:green_concrete","rgb":[73,91,36]},
+    {"block":"minecraft:red_concrete","rgb":[142,32,32]},
+    {"block":"minecraft:black_concrete","rgb":[8,10,15]}
+  ]
+}

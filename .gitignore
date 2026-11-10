@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+outputs/
+output/
+downloads/
+private-inputs/
+*.jar
+*.mcpr
+*.log
+work/

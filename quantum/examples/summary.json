@@ -1,0 +1,26 @@
+{
+  "model": "Planck wavelength spectral radiance",
+  "experimental": false,
+  "wavelength_unit": "um",
+  "radiance_unit": "W m^-2 sr^-1 um^-1",
+  "shared_vertical_scale": true,
+  "peaks": [
+    {
+      "temperature_k": 3000,
+      "wien_peak_um": 0.965923985
+    },
+    {
+      "temperature_k": 4500,
+      "wien_peak_um": 0.6439493233333333
+    },
+    {
+      "temperature_k": 6000,
+      "wien_peak_um": 0.4829619925
+    }
+  ],
+  "constants_SI": {
+    "h": 6.62607015e-34,
+    "c": 299792458.0,
+    "k_B": 1.380649e-23
+  }
+}
